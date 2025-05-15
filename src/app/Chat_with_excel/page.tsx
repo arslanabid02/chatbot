@@ -1,7 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
-
+import { useState } from "react";
 type Product = {
   _id: string;
   product_name: string;
